@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "Mercedes S class",
+      "body": "With every year, an S-Class represents not just the pinnacle of the automobile but the forefront. Its thoughtful of its passengers. Keenly in tune with its driver. Highly protective of those within or even near its elegant presence. Everything that matters most to you, matters more than ever to the S-Class",
+      "founder": "Karl Benz",
+      "id": 1
+    },
+    {
+      "title": "BMW 7 series",
+      "body": "An entirely new generation of the 7-series, long BMW's flagship sedan and the brand's most luxurious and advanced product, has debuted for the 2023 model year. The formula doesn’t change much from the current car’s: powertrains include a turbocharged inline-six and a twin-turbo V-8, with a plug-in hybrid joining the lineup later. We’ve driven a thoroughly camouflaged prototype, and found that the 7-series veritably floats down the road. Its handling is a little more lithe than the 2022 car's thanks to some changes to the chassis and suspension, including a new rear-wheel steering system. Its driver-assistance tech provides a semi-autonomous driving mode for highway slogs but the car’s showstopping feature is an optional 31.3-inch rear entertainment display called Theater Screen that drops from the ceiling and streams TV and movies using the onboard Wi-Fi system.",
+      "founder": "Gustav Otto",
+      "id": 2
+    },
+    {
+      "title": "Audi A8",
+      "body": "Audi's answer to the Mercedes-Benz S-class is the 2022 A8 sedan, which is also an Editors' Choice winner. It offers a spacious interior and every conceivable luxury and convenience feature, which helps justify its nearly six-figure starting price. The A8's styling is expertly rendered to look ritzy but restrained, and fans of the smaller A4 and A6 sedans will find the A8 handsome. Its cabin, however, is far more comfortable than those four doors and offers similar space and features as the S-class and the BMW 7-series, the Audi's other natural rival. Massaging seats for both front and rear passengers are available and Audi also includes a host of driver-assists as standard. Drivers looking for more oomph should consider the performance-oriented S8 model, which we review separately.",
+      "founder": "August Horch",
+      "id": 3
+    },
+    {
+      "title": "Lexus LS 500",
+      "body": "As buyers assert their preferences for luxury SUVs, big, full-size luxury sedans have become a rarer sight. The 2022 Lexus LS remains the automaker's flagship canvas for tech, comfort and safety innovations, but it's getting lonely out there. The LS carries over largely unchanged for 2022, but there's been some tinkering behind the scenes. Revised suspension settings and components aim to improve ride quality and stability, the optional air suspension can adjust to ease cabin entry and exit, and recalibrated shift timing helps further refine driving and acceleration. The driver aids and safety features also receive enhanced radar and camera upgrades. There's also obsessive new detail, including optional ultra-fine metal foil trim called Haku, made by Japanese artisans and meant to evoke moonlight on ocean waves. This joins the existing option of decorative cut-glass inlays (Kiriko glass) and hand-pleated fabric door trim available with the Executive package. This level of refinement sets the LS apart from its few rivals, including the Genesis G90, Audi A8 and BMW 7 Series. The Mercedes-Benz S-Class once counted in this group, but its recent six-digit starting price puts it beyond the comparatively humble LS and its peers. Be sure to read our Expert Rating to see how the LS stacks up among the large luxury sleds.",
+      "founder": "Akio Toyoda",
+      "id": 4
+    },
+    {
+      "title": "Mazda",
+      "body": "This will work as normal, the form will submit and the page will refresh.\n\nBut this is generally not what we want to happen in React.\n\nWe want to prevent this default behavior and let React control the form.",
+      "founder": "Mazda-san",
+      "id": 5
+    },
+    {
+      "title": "Ford",
+      "body": "This will work as normal, the form will submit and the page will refresh.\n\nBut this is generally not what we want to happen in React.\n\nWe want to prevent this default behavior and let React control the form.",
+      "founder": "Henry Ford",
+      "id": 9
+    }
+  ]
+}

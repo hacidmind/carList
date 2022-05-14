@@ -1,0 +1,13 @@
+
+.head{
+    text-align: center;
+    font-style: italic;
+    color: red;
+}
+
+.body{
+    margin: 5px;
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
