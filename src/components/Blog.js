@@ -4,7 +4,7 @@ import Bloglist from './BlogList';
 
 const Blog = () => {
   
-    const { data: blogs, isLoading, isError } = UseCustomHook("http://localhost:8000/blogs")
+    const { data: blogs, isLoading, isError } = UseCustomHook("https://my-json-server.typicode.com/hacidmind/cardb/blogs")
 
     return (
         <div>
